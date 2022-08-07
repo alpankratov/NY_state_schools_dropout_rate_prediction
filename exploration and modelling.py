@@ -242,8 +242,8 @@ grid_random_forest = GridSearchCV(RandomForestRegressor(n_estimators=100, criter
                                   cv=5, scoring=['r2', 'neg_mean_absolute_error'])
 grid_random_forest.fit(x_train.values, y_train.values)
 
-# NON-ESSENTIAL FILE PART OF THE PROJECT
-# Pickel the random forest model (for Flask API check)
+# NON-ESSENTIAL PART OF THE PROJECT
+# Pickle the random forest model (for Flask API check)
 model_file = "models/rf.pickle"
 pickle.dump(grid_random_forest.best_estimator_, open(model_file, 'wb'))
 

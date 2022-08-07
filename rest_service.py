@@ -1,4 +1,4 @@
-# NON-ESSENTIAL FILE PART OF THE PROJECT
+# NON-ESSENTIAL PART OF THE PROJECT
 # EXAMPLE ONLY FOR RANDOM FOREST MODEL
 # needs to be run in prompt as 'python rest_service.py'
 import pandas as pd
