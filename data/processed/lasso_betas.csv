@@ -1,0 +1,32 @@
+variable,coefficient
+`cohort_2014 Total Cohort - 6 Year Outcome`,0.06986751112673395
+`cohort_2015 Total Cohort - 5 Year Outcome`,0
+`cohort_2016 Total Cohort - 4 Year Outcome`,-0.2027582853079445
+gender_Female,-0.18002402887794702
+PUPIL_COUNT_TOT,0.044369322261462923
+PER_FEDERAL_EXP,0.06113838409439249
+PER_STATE_LOCAL_EXP,0
+PER_TEACH_INEXP,0
+TEACH_PER_PUPIL,0.09283705204399638
+ATTENDANCE_RATE,-0.3109709240039643
+PER_SUSPENSIONS,0
+PER_FREE_LUNCH,0.6233820726866015
+cty_pop_under_18,0
+cty_pop_over_65,0
+cty_female,-0.056150415676055124
+cty_foreign_born,-0.18320874158932368
+cty_owner_occupied,0
+cty_housing_unit_median_value,-0.039201641760415816
+cty_pers_pers_household,0
+cty_same_house,0
+cty_non_english,0
+cty_with_computer,0.05534699321247681
+cty_with_internet,0
+cty_hs_graduates,0
+cty_uni_degree,-0.10006078296311637
+cty_time_to_work,0
+cty_med_household_income,0
+cty_poverty,0
+cty_pop_density,0
+COUNSELORS_PER_PUPIL,0.06175517806097468
+SOCIAL_PER_PUPIL,0.0085090186950218

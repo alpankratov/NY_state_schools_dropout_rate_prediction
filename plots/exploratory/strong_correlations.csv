@@ -1,0 +1,10 @@
+Variable 1,Variable 2,Pearson correlation,abs_corr
+cty_non_english,cty_foreign_born,0.9673710963732723,0.9673710963732723
+cty_non_english,cty_owner_occupied,-0.817611517366723,0.817611517366723
+cty_with_internet,cty_with_computer,0.9076246825679902,0.9076246825679902
+cty_hs_graduates,cty_non_english,-0.8247924649003417,0.8247924649003417
+cty_time_to_work,cty_foreign_born,0.9095676631330316,0.9095676631330316
+cty_time_to_work,cty_non_english,0.9212626184602374,0.9212626184602374
+cty_med_household_income,cty_with_internet,0.8621716702657702,0.8621716702657702
+cty_pop_density,cty_owner_occupied,-0.8727498158036167,0.8727498158036167
+cty_pop_density,cty_housing_unit_median_value,0.8935366713479344,0.8935366713479344

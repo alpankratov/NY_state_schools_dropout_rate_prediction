@@ -1,0 +1,7 @@
+,RF feature importance (MDI),RF feature importance (permutation),RF feature importance (SHAP),XGB feature importance (MDI),XGB feature importance (permutation),XGB feature importance (SHAP)
+RF feature importance (MDI),1,0.971537726,0.98295234,0.711360542,0.997440588,0.989588374
+RF feature importance (permutation),0.971537726,1,0.992179388,0.854021098,0.985281441,0.930066553
+RF feature importance (SHAP),0.98295234,0.992179388,1,0.821102869,0.989243102,0.95733139
+XGB feature importance (MDI),0.711360542,0.854021098,0.821102869,1,0.753694314,0.621118186
+XGB feature importance (permutation),0.997440588,0.985281441,0.989243102,0.753694314,1,0.976831112
+XGB feature importance (SHAP),0.989588374,0.930066553,0.95733139,0.621118186,0.976831112,1
